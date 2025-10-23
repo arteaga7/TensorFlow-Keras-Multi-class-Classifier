@@ -1,0 +1,6 @@
+pandas
+tensorflow==2.13.1
+numpy
+matplotlib
+ipykernel
+scikit-learn
